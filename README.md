@@ -10,11 +10,13 @@ Welcome to the **ESP32 GPS Blueprints** repository! This project provides hardwa
 esp32-gps-blueprints/
 ├── README.md
 ├── code/
+│   ├── esp32_devkit_v1_btns_buzzer_led_full_setup_ver1.ino
 │   ├── esp32_devkit_v1_neo6m_buzzer_led.ino
 │   ├── esp32_external_single_led_blink.ino
 │   └── esp32_onboard_led_blink.ino
 ├── circuits/
 │   ├── breadboard.drawio
+│   ├── esp32_dev_kit_v1_btns_buzzer_led_full_setup_ver1.drawio
 │   ├── esp32_dev_kit_v1_diagram.drawio
 │   ├── esp32_devkit_v1_neo6m_buzzer_led.drawio
 │   ├── esp32_devkit_v1_neo6m_buzzer_led_noBreadboard.drawio
