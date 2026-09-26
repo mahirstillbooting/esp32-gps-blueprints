@@ -1,6 +1,6 @@
 # 🛰️ ESP32 GPS Blueprints
 
-Welcome to the **ESP32 GPS Blueprints** repository! This project provides hardware circuit schematics, wiring diagrams, and Arduino code for interfacing GPS modules (such as the NEO-6M) with the **ESP32 DevKit V1** microcontroller board.
+Welcome to the **ESP32 GPS Blueprints** repository! This project provides hardware circuit schematics, wiring diagrams, and Arduino code for interfacing GPS modules with the **ESP32 DevKit V1** microcontroller board.
 
 ---
 
@@ -10,12 +10,9 @@ Welcome to the **ESP32 GPS Blueprints** repository! This project provides hardwa
 esp32-gps-blueprints/
 ├── README.md
 ├── code/
-│   └── neo6m-gps.ino
 ├── circuits/
-│   ├── breadboard.drawio
-│   └── neo6m-gps.drawio
+│   └── breadboard.drawio
 └── images/
-    └── neo6m-gps.jpg
 ```
 
 ---
@@ -26,7 +23,7 @@ Follow these steps to view or edit the interactive circuit schematics:
 
 1. **Download the Diagram File**:
    - Navigate to the [`circuits/`](circuits/) directory in this repository.
-   - Download the desired `.drawio` file (e.g., `neo6m-gps.drawio` or `breadboard.drawio`).
+   - Download the desired `.drawio` file (e.g., `breadboard.drawio`).
 2. **Open draw.io**:
    - Open your web browser and navigate to [draw.io](https://app.diagrams.net/).
 3. **Load the File**:
@@ -75,7 +72,7 @@ To enable USB communication between your PC and the ESP32 board, install the Sil
    - Go to **Tools** > **Board** > **esp32** > Select **ESP32 Dev Module**.
 
 ### Step 6: Download & Upload Sketch
-1. Download the `.ino` code file from the [`code/`](code/) directory (e.g., `neo6m-gps.ino`).
+1. Download the `.ino` code file from the [`code/`](code/) directory once uploaded.
 2. Open the `.ino` file in Arduino IDE (or copy the code into a new IDE sketch).
 3. Click the **Upload** button (right arrow icon in the top toolbar) to compile and flash the sketch to your ESP32.
 
@@ -83,17 +80,6 @@ To enable USB communication between your PC and the ESP32 board, install the Sil
 1. Open the Serial Monitor via **Tools** > **Serial Monitor** (or press `Ctrl + Shift + M`).
 2. Set the baud rate in the bottom-right corner of the Serial Monitor window to **`115200` baud**.
 3. You will see real-time location coordinates and GPS data logged to the console!
-
----
-
-## 📌 Pinout & Connections Quick Reference
-
-| ESP32 DevKit V1 Pin | NEO-6M GPS Pin | Description |
-| :--- | :--- | :--- |
-| **3.3V / 5V** | `VCC` | Power Supply |
-| **GND** | `GND` | Ground |
-| **GPIO 16 (RX2)** | `TX` | ESP32 Receiver |
-| **GPIO 17 (TX2)** | `RX` | ESP32 Transmitter |
 
 ---
 
