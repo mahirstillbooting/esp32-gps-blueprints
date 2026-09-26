@@ -16,6 +16,7 @@ esp32-gps-blueprints/
 │   └── esp32_onboard_led_blink.ino
 ├── circuits/
 │   ├── breadboard.drawio
+│   ├── esp32_all_config_ver1.drawio
 │   ├── esp32_dev_kit_v1_btns_buzzer_led_full_setup_ver1.drawio
 │   ├── esp32_dev_kit_v1_diagram.drawio
 │   ├── esp32_devkit_v1_neo6m_buzzer_led.drawio
