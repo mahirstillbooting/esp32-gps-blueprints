@@ -10,8 +10,10 @@ Welcome to the **ESP32 GPS Blueprints** repository! This project provides hardwa
 esp32-gps-blueprints/
 ├── README.md
 ├── code/
+│   └── esp32_onboard_led_blink.ino
 ├── circuits/
-│   └── breadboard.drawio
+│   ├── breadboard.drawio
+│   └── esp32_dev_kit_v1_diagram.drawio
 └── images/
 ```
 
