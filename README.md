@@ -21,7 +21,8 @@ esp32-gps-blueprints/
 │   ├── esp32_dev_kit_v1_diagram.drawio
 │   ├── esp32_devkit_v1_neo6m_buzzer_led.drawio
 │   ├── esp32_devkit_v1_neo6m_buzzer_led_noBreadboard.drawio
-│   └── esp32_external_single led.drawio
+│   ├── esp32_external_single led.drawio
+│   └── esp32_single_bb_irl.drawio
 └── images/
 ```
 
