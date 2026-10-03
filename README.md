@@ -15,7 +15,8 @@ esp32-gps-blueprints/
 │   ├── esp32_devkit_v1_neo6m_buzzer_led.ino
 │   ├── esp32_external_single_led_blink.ino
 │   ├── esp32_irl_implementation_single_bb_test.ino
-│   └── esp32_onboard_led_blink.ino
+│   ├── esp32_onboard_led_blink.ino
+│   └── esp32_rest_api_real_time_web_check.ino
 ├── circuits/
 │   ├── breadboard.drawio
 │   ├── esp32_2bb_empty_canvas.drawio
@@ -29,7 +30,8 @@ esp32-gps-blueprints/
 │   ├── esp32_external_single led.drawio
 │   ├── esp32_irl_all_components_only.drawio
 │   ├── esp32_irl_implementation_single_bb.drawio
-│   └── esp32_single_bb_irl.drawio
+│   ├── esp32_single_bb_irl.drawio
+│   └── project flow diagram.drawio
 └── images/
     └── ESP32_2bb_irl_setup_ver3.png
 ```

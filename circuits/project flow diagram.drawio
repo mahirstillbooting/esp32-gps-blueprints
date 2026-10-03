@@ -1,0 +1,1635 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="14tP94JZO1gqU0ilaVDE">
+    <mxGraphModel dx="3716" dy="1850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-6" edge="1" parent="1" source="-h5MrGtXKoPA0C28k3B0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="-h5MrGtXKoPA0C28k3B0-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-7" connectable="0" parent="-h5MrGtXKoPA0C28k3B0-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="registers by submitting his details" vertex="1">
+          <mxGeometry relative="1" x="0.15" y="-1" as="geometry">
+            <mxPoint x="11" y="28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Rikshaw Driver" vertex="1">
+          <mxGeometry height="60" width="30" x="60" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-8" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="-h5MrGtXKoPA0C28k3B0-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="30" />
+              <mxPoint x="305" y="30" />
+              <mxPoint x="305" y="210" />
+              <mxPoint x="225" y="210" />
+              <mxPoint x="225" y="220" />
+            </Array>
+            <mxPoint x="380" y="40" as="sourcePoint" />
+            <mxPoint x="225" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-9" connectable="0" parent="-h5MrGtXKoPA0C28k3B0-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="admin verifies details" vertex="1">
+          <mxGeometry relative="1" x="-0.2056" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Admin" vertex="1">
+          <mxGeometry height="60" width="30" x="350" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-10" edge="1" parent="1" source="-h5MrGtXKoPA0C28k3B0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="-h5MrGtXKoPA0C28k3B0-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-11" connectable="0" parent="-h5MrGtXKoPA0C28k3B0-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="garage owner adds rikshaw vehicle" vertex="1">
+          <mxGeometry relative="1" x="0.003" y="-5" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-16" edge="1" parent="1" source="-h5MrGtXKoPA0C28k3B0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-h5MrGtXKoPA0C28k3B0-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="D" vertex="1">
+          <mxGeometry height="60" width="30" x="70" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="চালক App" vertex="1">
+          <mxGeometry height="60" width="50" x="160" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-12" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="device(esp32 devkit v1 +&amp;nbsp;atgm336h + sim 4g module+2 external antenna and entire setup&amp;nbsp;" vertex="1">
+          <mxGeometry height="110" width="255" x="320" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-13" edge="1" parent="1" source="-h5MrGtXKoPA0C28k3B0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.549;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;" target="-h5MrGtXKoPA0C28k3B0-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-15" connectable="0" parent="-h5MrGtXKoPA0C28k3B0-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Team Sends to Garage Owner" vertex="1">
+          <mxGeometry relative="1" x="0.2945" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-14" edge="1" parent="1" source="-h5MrGtXKoPA0C28k3B0-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" target="-h5MrGtXKoPA0C28k3B0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="garage owner sets the tracker on the rikshaw&amp;nbsp;&lt;br&gt;rikshaw number + esp32 has its own tracker number&lt;div&gt;and all the details is saved and updated in the cloud server backend&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="255" x="80" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-21" edge="1" parent="1" source="-h5MrGtXKoPA0C28k3B0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="-h5MrGtXKoPA0C28k3B0-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-18" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Rikshaw Driver" vertex="1">
+          <mxGeometry height="60" width="30" x="80" y="685" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-22" edge="1" parent="1" source="-h5MrGtXKoPA0C28k3B0-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="-h5MrGtXKoPA0C28k3B0-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="scans the QR on the rikshaw or ask the garage owner to link his profile to a rikshaw" vertex="1">
+          <mxGeometry height="60" width="170" x="170" y="685" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-39" edge="1" parent="1" source="-h5MrGtXKoPA0C28k3B0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="-h5MrGtXKoPA0C28k3B0-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="On MongoDB server, the rikshaw tracker id is now linked wit the rikshaw driver id of this garage" vertex="1">
+          <mxGeometry height="90" width="120" x="530" y="795" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-37" edge="1" parent="1" source="-h5MrGtXKoPA0C28k3B0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-h5MrGtXKoPA0C28k3B0-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-24" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Garage Owner" vertex="1">
+          <mxGeometry height="60" width="20" x="420" y="685" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-30" edge="1" parent="1" source="-h5MrGtXKoPA0C28k3B0-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-h5MrGtXKoPA0C28k3B0-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-28" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Rikshaw Driver" vertex="1">
+          <mxGeometry height="60" width="30" x="50" y="935" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-32" edge="1" parent="1" source="-h5MrGtXKoPA0C28k3B0-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-h5MrGtXKoPA0C28k3B0-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="powers on the esp32 device&amp;nbsp;&lt;div&gt;after owner approval&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="200" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-31" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Server_128x128.png" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="430" y="895" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-38" edge="1" parent="1" source="-h5MrGtXKoPA0C28k3B0-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-h5MrGtXKoPA0C28k3B0-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="it is first checked on the server whether the rikshaw id was unlinked the last time it was linked with a rikshaw driver, if no driver was linked, then the server approves the garage owner request" vertex="1">
+          <mxGeometry height="90" width="225" x="490" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-41" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="600" as="sourcePoint" />
+            <mxPoint x="680" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-42" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="680" y="600" as="sourcePoint" />
+            <mxPoint x="750" y="1093.5294117647059" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-46" edge="1" parent="1" source="-h5MrGtXKoPA0C28k3B0-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-h5MrGtXKoPA0C28k3B0-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-45" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Rikshaw Driver" vertex="1">
+          <mxGeometry height="60" width="30" x="720" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-47" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="100" width="125" x="1000" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-43" parent="-h5MrGtXKoPA0C28k3B0-47" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="100" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-40" parent="-h5MrGtXKoPA0C28k3B0-47" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.contactor_32_125a;" value="" vertex="1">
+          <mxGeometry height="50" width="30" x="15" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-44" parent="-h5MrGtXKoPA0C28k3B0-47" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="device with buttons" vertex="1">
+          <mxGeometry height="30" width="90" x="35" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Once Linked and the device is turned on" vertex="1">
+          <mxGeometry height="60" width="120" x="850" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-53" edge="1" parent="1" source="-h5MrGtXKoPA0C28k3B0-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.008;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" target="-h5MrGtXKoPA0C28k3B0-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-52" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Rikshaw Driver" vertex="1">
+          <mxGeometry height="60" width="30" x="760" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-1" edge="1" parent="1" source="-h5MrGtXKoPA0C28k3B0-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-h5MrGtXKoPA0C28k3B0-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="May use app or from the push buttons to make him available for a ride as app and the device will be synced" vertex="1">
+          <mxGeometry height="120" width="120" x="870" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-3" edge="1" parent="1" source="-h5MrGtXKoPA0C28k3B0-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="heH0AkZQWsI9mbLHJb5V-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1230" y="250" />
+              <mxPoint x="1230" y="400" />
+              <mxPoint x="1075" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-55" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Server_128x128.png" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="1130" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="-h5MrGtXKoPA0C28k3B0-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ESP32 stores only tracker ID and Rikshaw ID" vertex="1">
+          <mxGeometry height="50" width="150" x="1130" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="the cloud is updated as available/marks the rikshaw id with the esp32 tracker id(available) and will make the rikshaw available on the map of passengers.&lt;div&gt;A led indicator will always show available for ride acceptance or not&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="410" x="870" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Passenger" vertex="1">
+          <mxGeometry height="60" width="30" x="830" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-5" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="750" y="600" as="sourcePoint" />
+            <mxPoint x="2080" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-20" edge="1" parent="1" source="heH0AkZQWsI9mbLHJb5V-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="heH0AkZQWsI9mbLHJb5V-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1100" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-9" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Server_128x128.png" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="920" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-12" edge="1" parent="1" source="heH0AkZQWsI9mbLHJb5V-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="heH0AkZQWsI9mbLHJb5V-11" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="640" as="sourcePoint" />
+            <mxPoint x="1320" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Cloud shows that driver is avaialble" vertex="1">
+          <mxGeometry height="30" width="125" x="1125" y="625" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-17" edge="1" parent="1" source="heH0AkZQWsI9mbLHJb5V-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="heH0AkZQWsI9mbLHJb5V-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Passenger opens app, gives permission to gps and then the cloud feches the passenger location" vertex="1">
+          <mxGeometry height="90" width="120" x="930" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-18" edge="1" parent="1" source="heH0AkZQWsI9mbLHJb5V-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.411;entryDx=0;entryDy=0;entryPerimeter=0;" target="heH0AkZQWsI9mbLHJb5V-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-25" edge="1" parent="1" source="heH0AkZQWsI9mbLHJb5V-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="heH0AkZQWsI9mbLHJb5V-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="the backend detects the avaialbale rikshaw that is nearby 500m of the passenger who just logged in the app" vertex="1">
+          <mxGeometry height="110" width="120" x="1120" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-21" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Passenger" vertex="1">
+          <mxGeometry height="60" width="30" x="1180" y="995" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="projeccts the location of the rikshaw on the pasnger app as available with rikshaw driver and rikshaw (vehicle) details" vertex="1">
+          <mxGeometry height="90" width="180" x="830" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-28" edge="1" parent="1" source="heH0AkZQWsI9mbLHJb5V-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" target="heH0AkZQWsI9mbLHJb5V-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-29" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1320" y="1090" as="sourcePoint" />
+            <mxPoint x="1320" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#001DBC;fillColor=light-dark(#000000,#FCF8F8);align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;fontSize=20;fontStyle=1" value="1" vertex="1">
+          <mxGeometry height="50" width="60" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#001DBC;fillColor=light-dark(#000000,#FCF8F8);align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;fontSize=20;fontStyle=1" value="2" vertex="1">
+          <mxGeometry height="50" width="60" x="10" y="625" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#001DBC;fillColor=light-dark(#000000,#FCF8F8);align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;fontSize=20;fontStyle=1" value="3" vertex="1">
+          <mxGeometry height="50" width="60" x="715" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#001DBC;fillColor=light-dark(#000000,#FCF8F8);align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;fontSize=20;fontStyle=1" value="4" vertex="1">
+          <mxGeometry height="50" width="60" x="780" y="625" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-34" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Server_128x128.png" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="530" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="the cloud is updated" vertex="1">
+          <mxGeometry height="30" width="60" x="540" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-38" edge="1" parent="1" source="heH0AkZQWsI9mbLHJb5V-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="heH0AkZQWsI9mbLHJb5V-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-36" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Passenger" vertex="1">
+          <mxGeometry height="60" width="30" x="1360" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-43" edge="1" parent="1" source="heH0AkZQWsI9mbLHJb5V-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="heH0AkZQWsI9mbLHJb5V-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1640" y="280" as="sourcePoint" />
+            <mxPoint x="1872.5" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="Passenger approaches the riksahw as projected on his app or calls on phone fro the details of the driver ratings and trip details how etc" vertex="1">
+          <mxGeometry height="90" width="255" x="1450" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-40" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Rikshaw Driver" vertex="1">
+          <mxGeometry height="60" width="30" x="1810" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Passenger confirms the fair and destination and then sends a ride start request to the rikshaw driver through the app(must be done through the app or if scans the qr code on the rikshaw will also do work)&amp;nbsp;" vertex="1">
+          <mxGeometry height="110" width="170" x="1430" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-46" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Passenger" vertex="1">
+          <mxGeometry height="60" width="30" x="1350" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-47" edge="1" parent="1" source="heH0AkZQWsI9mbLHJb5V-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" target="heH0AkZQWsI9mbLHJb5V-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-51" edge="1" parent="1" source="heH0AkZQWsI9mbLHJb5V-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="heH0AkZQWsI9mbLHJb5V-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-71" edge="1" parent="1" source="heH0AkZQWsI9mbLHJb5V-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="heH0AkZQWsI9mbLHJb5V-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-48" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Rikshaw Driver" vertex="1">
+          <mxGeometry height="60" width="30" x="1640" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-49" edge="1" parent="1" source="heH0AkZQWsI9mbLHJb5V-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="heH0AkZQWsI9mbLHJb5V-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-52" edge="1" parent="1" source="heH0AkZQWsI9mbLHJb5V-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="heH0AkZQWsI9mbLHJb5V-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1868" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-67" edge="1" parent="1" source="heH0AkZQWsI9mbLHJb5V-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.438;entryY=0.875;entryDx=0;entryDy=0;entryPerimeter=0;" target="heH0AkZQWsI9mbLHJb5V-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="The esp32 device on driver&#39;s control panel lights up for ride request with a buzzing sound, and if the driver has smartphone will be able to view the incomig ride request from the passenger who just scanned the qr or send the ride request. Now the led will blink in based on states and wait for driver&#39;s acceptance." vertex="1">
+          <mxGeometry height="110" width="255" x="1740" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-60" edge="1" parent="1" source="heH0AkZQWsI9mbLHJb5V-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="heH0AkZQWsI9mbLHJb5V-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="the driver then pushes a dedicated button on the panel and the ride strtas and is synchronized both on the app for both user" vertex="1">
+          <mxGeometry height="60" width="255" x="1750" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-56" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="100" width="125" x="1590" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-63" edge="1" parent="heH0AkZQWsI9mbLHJb5V-56" source="heH0AkZQWsI9mbLHJb5V-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-70" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-57" parent="heH0AkZQWsI9mbLHJb5V-56" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="100" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-58" parent="heH0AkZQWsI9mbLHJb5V-56" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.contactor_32_125a;" value="" vertex="1">
+          <mxGeometry height="50" width="30" x="15" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-59" parent="heH0AkZQWsI9mbLHJb5V-56" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="device with buttons" vertex="1">
+          <mxGeometry height="30" width="90" x="35" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-62" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Passenger" vertex="1">
+          <mxGeometry height="60" width="30" x="1360" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="the passenger app updates and the&amp;nbsp; ride gets locked for the passenger with the rikshaw driver, with the specific esp32 driver" vertex="1">
+          <mxGeometry height="120" width="120" x="1430" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-65" edge="1" parent="1" source="heH0AkZQWsI9mbLHJb5V-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="heH0AkZQWsI9mbLHJb5V-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-68" edge="1" parent="1" source="heH0AkZQWsI9mbLHJb5V-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="heH0AkZQWsI9mbLHJb5V-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1970" y="210" />
+              <mxPoint x="2040" y="210" />
+              <mxPoint x="2040" y="540" />
+              <mxPoint x="1360" y="540" />
+              <mxPoint x="1360" y="500" />
+              <mxPoint x="1375" y="500" />
+            </Array>
+            <mxPoint x="1995" y="210" as="sourcePoint" />
+            <mxPoint x="1370" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-66" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Server_128x128.png" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="1890" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#001DBC;fillColor=light-dark(#000000,#FCF8F8);align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;fontSize=20;fontStyle=1" value="5" vertex="1">
+          <mxGeometry height="50" width="60" x="1350" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#001DBC;fillColor=light-dark(#000000,#FCF8F8);align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;fontSize=20;fontStyle=1" value="6" vertex="1">
+          <mxGeometry height="50" width="60" x="1335" y="625" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-72" edge="1" parent="1" source="heH0AkZQWsI9mbLHJb5V-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="heH0AkZQWsI9mbLHJb5V-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-76" edge="1" parent="1" source="heH0AkZQWsI9mbLHJb5V-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="heH0AkZQWsI9mbLHJb5V-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1520" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-73" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ride termination" vertex="1">
+          <mxGeometry height="30" width="60" x="1410" y="635" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-81" edge="1" parent="1" source="heH0AkZQWsI9mbLHJb5V-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="heH0AkZQWsI9mbLHJb5V-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-74" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Passenger" vertex="1">
+          <mxGeometry height="60" width="30" x="1365" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Since theres no fixed destination nor we&amp;nbsp; mark the destination , the location where the mutual handshaking for termination will occur will be recorded as the destination" vertex="1">
+          <mxGeometry height="30" width="370" x="1570" y="635" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-95" edge="1" parent="1" source="heH0AkZQWsI9mbLHJb5V-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="heH0AkZQWsI9mbLHJb5V-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1375" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-79" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Rikshaw Driver" vertex="1">
+          <mxGeometry height="60" width="30" x="1360" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-83" edge="1" parent="1" source="heH0AkZQWsI9mbLHJb5V-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="heH0AkZQWsI9mbLHJb5V-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="the passenger upon arrival at the destination, sends a termination/ end ride request through the app(compulsory)" vertex="1">
+          <mxGeometry height="80" width="180" x="1440" y="715" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-84" edge="1" parent="1" source="heH0AkZQWsI9mbLHJb5V-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="heH0AkZQWsI9mbLHJb5V-89">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1610" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-82" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Server_128x128.png" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="1705" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-85" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="100" width="125" x="1495" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-87" parent="heH0AkZQWsI9mbLHJb5V-85" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="100" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-88" parent="heH0AkZQWsI9mbLHJb5V-85" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.contactor_32_125a;" value="" vertex="1">
+          <mxGeometry height="50" width="30" x="15" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-89" parent="heH0AkZQWsI9mbLHJb5V-85" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="device with buttons" vertex="1">
+          <mxGeometry height="30" width="90" x="35" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="the cloud continously keeps track of the ongoing ride till the termination , and upon&amp;nbsp; receiving the termination request from the passenger, then sends to the device and both phone app of the driver" vertex="1">
+          <mxGeometry height="90" width="220" x="1840" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-92" edge="1" parent="1" source="heH0AkZQWsI9mbLHJb5V-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="heH0AkZQWsI9mbLHJb5V-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-93" edge="1" parent="1" source="heH0AkZQWsI9mbLHJb5V-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="heH0AkZQWsI9mbLHJb5V-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-94" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="termination request for mutual handshake is sent, the led blinks buzzer buzzes, and on app it shows to end the ride." vertex="1">
+          <mxGeometry height="60" width="180" x="1640" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-97" edge="1" parent="1" source="heH0AkZQWsI9mbLHJb5V-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="heH0AkZQWsI9mbLHJb5V-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1670" y="1015" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="the riksahw driver then pushes a dedicated button on the device or throgh his mobile app accepts the ride end request" vertex="1">
+          <mxGeometry height="60" width="205" x="1350" y="985" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-99" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="60" width="100" x="1640" y="985" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-100" parent="heH0AkZQWsI9mbLHJb5V-99" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="60" width="96" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-101" parent="heH0AkZQWsI9mbLHJb5V-99" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.contactor_32_125a;" value="" vertex="1">
+          <mxGeometry height="30" width="24" x="12" y="9" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-102" parent="heH0AkZQWsI9mbLHJb5V-99" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="device with buttons" vertex="1">
+          <mxGeometry height="18" width="72" x="28" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-105" edge="1" parent="1" source="heH0AkZQWsI9mbLHJb5V-103" style="edgeStyle=isometricEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;elbow=vertical;" target="heH0AkZQWsI9mbLHJb5V-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1920" y="920" />
+            </Array>
+            <mxPoint x="1868.59" y="1003.82" as="sourcePoint" />
+            <mxPoint x="1820.6399999999999" y="780.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-103" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="the device changes the led button lights and makes the driver again available for a ride request or project itself on the map of users by updating the cloud server" vertex="1">
+          <mxGeometry height="80" width="205" x="1790" y="995" as="geometry" />
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-104" edge="1" parent="1" source="heH0AkZQWsI9mbLHJb5V-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.006;entryY=0.469;entryDx=0;entryDy=0;entryPerimeter=0;" target="heH0AkZQWsI9mbLHJb5V-103">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1750" y="1013.6190476190475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="heH0AkZQWsI9mbLHJb5V-106" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2080" y="1070" as="sourcePoint" />
+            <mxPoint x="2080" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PDHzEhKv4YmtSHWvJFNG-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#001DBC;fillColor=light-dark(#000000,#FCF8F8);align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;fontSize=20;fontStyle=1" value="7" vertex="1">
+          <mxGeometry height="50" width="60" x="2095" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wLA_NSnAgVjiEkDzT_kV-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="rikshaw driver pushes the dedicated cancel button" vertex="1">
+          <mxGeometry height="30" width="150" x="1600" y="1045" as="geometry" />
+        </mxCell>
+        <mxCell id="wLA_NSnAgVjiEkDzT_kV-8" edge="1" parent="1" source="wLA_NSnAgVjiEkDzT_kV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="wLA_NSnAgVjiEkDzT_kV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wLA_NSnAgVjiEkDzT_kV-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Rikshaw Driver" vertex="1">
+          <mxGeometry height="60" width="30" x="2125" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="wLA_NSnAgVjiEkDzT_kV-9" edge="1" parent="1" source="wLA_NSnAgVjiEkDzT_kV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="wLA_NSnAgVjiEkDzT_kV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wLA_NSnAgVjiEkDzT_kV-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Passenger" vertex="1">
+          <mxGeometry height="60" width="30" x="2120" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="wLA_NSnAgVjiEkDzT_kV-10" edge="1" parent="1" source="wLA_NSnAgVjiEkDzT_kV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="wLA_NSnAgVjiEkDzT_kV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wLA_NSnAgVjiEkDzT_kV-6" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Garage Owner" vertex="1">
+          <mxGeometry height="60" width="30" x="2200" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wLA_NSnAgVjiEkDzT_kV-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="registers" vertex="1">
+          <mxGeometry height="30" width="70" x="2210" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wLA_NSnAgVjiEkDzT_kV-11" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="System Admin approves" vertex="1">
+          <mxGeometry height="60" width="30" x="2330" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="wLA_NSnAgVjiEkDzT_kV-12" edge="1" parent="1" source="wLA_NSnAgVjiEkDzT_kV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" target="wLA_NSnAgVjiEkDzT_kV-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2420" y="175" />
+              <mxPoint x="2420" y="65" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-20" edge="1" parent="1" source="wLA_NSnAgVjiEkDzT_kV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="wLA_NSnAgVjiEkDzT_kV-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-35" edge="1" parent="1" source="wLA_NSnAgVjiEkDzT_kV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="W4Er2JH-VzB_er79cExz-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2145.08" y="540" />
+              <mxPoint x="2285.08" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wLA_NSnAgVjiEkDzT_kV-13" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Garage Owner" vertex="1">
+          <mxGeometry height="60" width="30" x="2115.08" y="416.25" as="geometry" />
+        </mxCell>
+        <mxCell id="wLA_NSnAgVjiEkDzT_kV-14" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2080" y="320" as="sourcePoint" />
+            <mxPoint x="2550" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wLA_NSnAgVjiEkDzT_kV-15" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Server_128x128.png" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="2360" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="wLA_NSnAgVjiEkDzT_kV-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="cloud / database updated" vertex="1">
+          <mxGeometry height="30" width="120" x="2340" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-1" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;code&gt;GAR-DHK-001&lt;/code&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="2179.92" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-12" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="130" width="138.5" x="2205.08" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-10" connectable="0" parent="W4Er2JH-VzB_er79cExz-12" style="group" value="" vertex="1">
+          <mxGeometry height="100" width="138.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wLA_NSnAgVjiEkDzT_kV-19" connectable="0" parent="W4Er2JH-VzB_er79cExz-10" style="group" value="" vertex="1">
+          <mxGeometry height="60" width="108.5" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wLA_NSnAgVjiEkDzT_kV-17" parent="wLA_NSnAgVjiEkDzT_kV-19" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.tank_car,_tank_wagon;" value="" vertex="1">
+          <mxGeometry height="60" width="108.5" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-4" parent="wLA_NSnAgVjiEkDzT_kV-19" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.contactor_32_125a;" value="" vertex="1">
+          <mxGeometry height="30" width="18" x="18.5" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-7" parent="wLA_NSnAgVjiEkDzT_kV-19" style="text;whiteSpace=wrap;html=1;" value="&lt;code&gt;RIK-DHK-00127&lt;/code&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="8.5" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-5" parent="W4Er2JH-VzB_er79cExz-10" style="text;whiteSpace=wrap;html=1;" value="&lt;code&gt;TRK-DHK-00081&lt;/code&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-6" edge="1" parent="W4Er2JH-VzB_er79cExz-10" source="W4Er2JH-VzB_er79cExz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.566;entryY=-0.045;entryDx=0;entryDy=0;entryPerimeter=0;" target="W4Er2JH-VzB_er79cExz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-11" parent="W4Er2JH-VzB_er79cExz-12" style="text;whiteSpace=wrap;html=1;" value="&lt;code&gt;QR-RIK-00127-X8K2&lt;/code&gt;" vertex="1">
+          <mxGeometry height="30" width="120" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-22" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2265.08" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-16" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Rikshaw Driver" vertex="1">
+          <mxGeometry height="60" width="30" x="2125" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-18" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;code&gt;DRV-DHK-00452&lt;/code&gt;" vertex="1">
+          <mxGeometry height="20" width="90" x="2095" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-19" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;code&gt;DRV-DHK-00452&lt;/code&gt;" vertex="1">
+          <mxGeometry height="30" width="108.5" x="2095" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-21" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;code&gt;GAR-DHK-001&lt;/code&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="2095" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-32" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="2265.08" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-25" parent="W4Er2JH-VzB_er79cExz-32" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="80" width="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-26" parent="W4Er2JH-VzB_er79cExz-32" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="20" width="50" x="15" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-28" parent="W4Er2JH-VzB_er79cExz-32" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="20" width="50" x="15" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-29" parent="W4Er2JH-VzB_er79cExz-32" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="20" width="50" x="15" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-31" parent="W4Er2JH-VzB_er79cExz-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="garage" vertex="1">
+          <mxGeometry height="20" width="60" x="10" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-33" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;code&gt;GAR-DHK-001&lt;/code&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="2265.08" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-36" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="W4Er2JH-VzB_er79cExz-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2395.08" y="610" />
+              <mxPoint x="2395.08" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-38" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="W4Er2JH-VzB_er79cExz-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2375.08" y="520" />
+              <mxPoint x="2375.08" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="driver with id&amp;nbsp;&lt;span style=&quot;font-family: monospace; text-align: left;&quot;&gt;DRV-DHK-00452&lt;/span&gt;&amp;nbsp;&amp;nbsp;is an authorized driver associated with this garage." vertex="1">
+          <mxGeometry height="60" width="138.5" x="2405.08" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;p&gt;The tracker &lt;strong&gt;does NOT belong to driver number DRV-DHK-00452&lt;/strong&gt;.&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;It belongs to the &lt;/span&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;rickshaw&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;.&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="2355.08" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tomorrow another driver can drive the same rikshaw and the tracker remains the same&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="138.5" x="2405.08" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-42" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2080" y="690" as="sourcePoint" />
+            <mxPoint x="2550" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-47" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="W4Er2JH-VzB_er79cExz-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-43" parent="1" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.contactor_32_125a;" value="" vertex="1">
+          <mxGeometry height="30" width="18" x="2150" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="The tracker knows its own id and that which rikshaw it is attached with" vertex="1">
+          <mxGeometry height="60" width="120" x="2219.92" y="795" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="tracker" vertex="1">
+          <mxGeometry height="30" width="60" x="2129" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-49" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="W4Er2JH-VzB_er79cExz-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-53" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="W4Er2JH-VzB_er79cExz-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;Tracker ID: TRK-DHK-00081&lt;br/&gt;GPS: 23.7806, 90.4070&lt;br/&gt;Timestamp: 18:42:15&lt;br/&gt;Status: ONLINE&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="70" width="180" x="2204.25" y="885" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;it does not need to know &lt;br&gt;driver: Kamrul&lt;br&gt;DRV-DHK-00452&lt;br&gt;Garage owner&lt;br&gt;Passenger&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="70" width="205" x="2143.5" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-51" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="W4Er2JH-VzB_er79cExz-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-52" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Server_128x128.png" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="2450" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Cloud / Backend" vertex="1">
+          <mxGeometry height="30" width="60" x="2450" y="915" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#001DBC;fillColor=light-dark(#000000,#FCF8F8);align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;fontSize=20;fontStyle=1" value="8" vertex="1">
+          <mxGeometry height="50" width="60" x="2100.08" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#001DBC;fillColor=light-dark(#000000,#FCF8F8);align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;fontSize=20;fontStyle=1" value="9" vertex="1">
+          <mxGeometry height="50" width="60" x="2095" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-58" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2550" y="1080" as="sourcePoint" />
+            <mxPoint x="2550" y="15" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-59" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#001DBC;fillColor=light-dark(#000000,#FCF8F8);align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;fontSize=20;fontStyle=1" value="10" vertex="1">
+          <mxGeometry height="50" width="60" x="2570" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-79" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="W4Er2JH-VzB_er79cExz-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-60" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Server_128x128.png" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="2840" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="The cloud maintains relationships as shown" vertex="1">
+          <mxGeometry height="60" width="120" x="2822.5" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-65" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="W4Er2JH-VzB_er79cExz-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-62" parent="1" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.contactor_32_125a;" value="" vertex="1">
+          <mxGeometry height="50" width="30" x="2595" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="tracker" vertex="1">
+          <mxGeometry height="30" width="60" x="2580" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-81" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.296;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;" target="W4Er2JH-VzB_er79cExz-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3020" y="192.5" />
+              <mxPoint x="3090" y="192.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-88" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=0;" target="W4Er2JH-VzB_er79cExz-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-77" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" value="" vertex="1">
+          <mxGeometry height="275" width="155" x="2942.5" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-66" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="W4Er2JH-VzB_er79cExz-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;TRK-DHK-00081&lt;br&gt;     &lt;br&gt;RIK-DHK-00127&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="2670" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-68" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="W4Er2JH-VzB_er79cExz-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2770" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-67" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Garage Owner" vertex="1">
+          <mxGeometry height="60" width="30" x="2680" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;TRK-DHK-00081&lt;br&gt;     &lt;br&gt;RIK-DHK-00127&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="2790" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-71" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="linking driver with rikshaw" vertex="1">
+          <mxGeometry height="60" width="60" x="2720" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-75" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="W4Er2JH-VzB_er79cExz-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3020" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-72" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Rikshaw Driver" vertex="1">
+          <mxGeometry height="60" width="30" x="3005" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-73" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;code&gt;DRV-DHK-00452&lt;/code&gt;" vertex="1">
+          <mxGeometry height="20" width="90" x="2975" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-74" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" target="W4Er2JH-VzB_er79cExz-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-76" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;Shift #001&lt;br&gt;DRV-DHK-00452&lt;br&gt;Kamrul&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="2960" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-80" parent="1" style="whiteSpace=wrap;html=1;" value="This part is variable as rikshaw drivers may change thus this&amp;nbsp; information is not hardcoded in tracker" vertex="1">
+          <mxGeometry height="60" width="182.5" x="3035" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-82" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Monday" vertex="1">
+          <mxGeometry height="30" width="60" x="2990" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-89" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="W4Er2JH-VzB_er79cExz-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" value="" vertex="1">
+          <mxGeometry height="275" width="155" x="3140" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-84" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Rikshaw Driver" vertex="1">
+          <mxGeometry height="60" width="30" x="3202.5" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-85" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;code&gt;DRV-DHK-00991&lt;/code&gt;" vertex="1">
+          <mxGeometry height="20" width="90" x="3172.5" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-86" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;Shift #002&lt;br&gt;DRV-DHK-00891&lt;br&gt;Samiul&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="3157.5" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-87" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tuesday" vertex="1">
+          <mxGeometry height="30" width="60" x="3187.5" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-90" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;p&gt;The ESP32 doesn&#39;t have to be reprogrammed.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;This is the main advantage of separating permanent and temporary relationships.&lt;/strong&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="695" x="2650" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-91" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2550" y="560" as="sourcePoint" />
+            <mxPoint x="3370" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-92" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#001DBC;fillColor=light-dark(#000000,#FCF8F8);align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;fontSize=20;fontStyle=1" value="11" vertex="1">
+          <mxGeometry height="50" width="60" x="2570" y="575" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-93" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Again how Kamrul Starts his shift" vertex="1">
+          <mxGeometry height="30" width="240" x="2630" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-96" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;code&gt;DRV-DHK-00452&lt;/code&gt;" vertex="1">
+          <mxGeometry height="20" width="90" x="2595" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-121" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2750" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-97" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Rikshaw Driver" vertex="1">
+          <mxGeometry height="60" width="30" x="2625" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-112" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="130" width="138.5" x="2750" y="645" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-113" connectable="0" parent="W4Er2JH-VzB_er79cExz-112" style="group" value="" vertex="1">
+          <mxGeometry height="100" width="138.5" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-114" connectable="0" parent="W4Er2JH-VzB_er79cExz-113" style="group" value="" vertex="1">
+          <mxGeometry height="60" width="108.5" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-115" parent="W4Er2JH-VzB_er79cExz-114" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.tank_car,_tank_wagon;" value="" vertex="1">
+          <mxGeometry height="60" width="108.5" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-116" parent="W4Er2JH-VzB_er79cExz-114" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.contactor_32_125a;" value="" vertex="1">
+          <mxGeometry height="30" width="18" x="18.5" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-117" parent="W4Er2JH-VzB_er79cExz-114" style="text;whiteSpace=wrap;html=1;" value="&lt;code&gt;RIK-DHK-00127&lt;/code&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="8.5" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-118" parent="W4Er2JH-VzB_er79cExz-113" style="text;whiteSpace=wrap;html=1;" value="&lt;code&gt;TRK-DHK-00081&lt;/code&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-119" edge="1" parent="W4Er2JH-VzB_er79cExz-113" source="W4Er2JH-VzB_er79cExz-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.566;entryY=-0.045;entryDx=0;entryDy=0;entryPerimeter=0;" target="W4Er2JH-VzB_er79cExz-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-120" parent="W4Er2JH-VzB_er79cExz-112" style="text;whiteSpace=wrap;html=1;" value="&lt;code&gt;QR-RIK-00127-X8K2&lt;/code&gt;" vertex="1">
+          <mxGeometry height="30" width="120" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-124" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2709" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-125" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="W4Er2JH-VzB_er79cExz-123">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2803.5" y="820" as="sourcePoint" />
+            <mxPoint x="2990" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-122" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;p&gt;He goes into Driver Mode and scans the physical QR or asks the garage owner&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="120" x="2648.5" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-130" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" target="W4Er2JH-VzB_er79cExz-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-123" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Server_128x128.png" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="2920" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-127" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Is kamrui verified?&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; YES&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Is rickshaw operational?&amp;nbsp; &amp;nbsp; YES&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Is kamrul authorized by garage? YES&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Does another active shift exist? NO&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="220" x="2845" y="785" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-128" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="backend check" vertex="1">
+          <mxGeometry height="30" width="100" x="2970" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-134" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.879;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" target="W4Er2JH-VzB_er79cExz-135">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3250" y="695" />
+              <mxPoint x="3250" y="762.5" />
+              <mxPoint x="3274.7" y="762.5" />
+            </Array>
+            <mxPoint x="3250" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-129" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Garage Owner" vertex="1">
+          <mxGeometry height="60" width="30" x="3187.5" y="665" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-131" parent="1" style="whiteSpace=wrap;html=1;" value="Backend sends shift request by DRV-DHK-00452&lt;div&gt;for the rikshaw RIK-DHK-00127 to GAR-DHK-001&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="3010" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-138" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="W4Er2JH-VzB_er79cExz-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-135" parent="1" style="whiteSpace=wrap;html=1;" value="Now garage owner sees kamrul requests RIK-DHK-00127 for a shift and garage owner approves" vertex="1">
+          <mxGeometry height="80" width="167.5" x="3127.5" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-136" parent="1" style="whiteSpace=wrap;html=1;" value="garage owner approves" vertex="1">
+          <mxGeometry height="35" width="90" x="3262.5" y="715" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-140" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="W4Er2JH-VzB_er79cExz-139" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-137" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Server_128x128.png" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="3162.5" y="945" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-141" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2760" y="1002.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-139" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" value="backend updates and creates an active shift&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;ACTIVE SHIFT&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Driver:&amp;nbsp; &amp;nbsp;DRV-DHK-00452&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Vehicle:&amp;nbsp; RIK-DHK-00127&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Garage:&amp;nbsp; &amp;nbsp;GAR-DHK-001&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Tracker:&amp;nbsp; TRK-DHK-00081&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="115" width="205" x="2840" y="945" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-142" parent="1" style="whiteSpace=wrap;html=1;" value="Now rikshawDriver turns on the Device" vertex="1">
+          <mxGeometry height="60" width="120" x="2638.5" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-143" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="3370" y="1075" as="sourcePoint" />
+            <mxPoint x="3370" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-144" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#001DBC;fillColor=light-dark(#000000,#FCF8F8);align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;fontSize=20;fontStyle=1" value="12" vertex="1">
+          <mxGeometry height="50" width="60" x="3382.5" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-145" parent="1" style="whiteSpace=wrap;html=1;" value="Now the ESP32 turns on" vertex="1">
+          <mxGeometry height="60" width="205" x="3470" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-169" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="W4Er2JH-VzB_er79cExz-168">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3810" y="340" />
+              <mxPoint x="3810" y="265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-175" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="W4Er2JH-VzB_er79cExz-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-146" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Server_128x128.png" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="3720" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-147" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="100" width="138.5" x="3480" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-148" connectable="0" parent="W4Er2JH-VzB_er79cExz-147" style="group" value="" vertex="1">
+          <mxGeometry height="60" width="108.5" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-149" parent="W4Er2JH-VzB_er79cExz-148" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.tank_car,_tank_wagon;" value="" vertex="1">
+          <mxGeometry height="60" width="108.5" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-150" parent="W4Er2JH-VzB_er79cExz-148" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.contactor_32_125a;" value="" vertex="1">
+          <mxGeometry height="30" width="18" x="18.5" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-151" parent="W4Er2JH-VzB_er79cExz-148" style="text;whiteSpace=wrap;html=1;" value="&lt;code&gt;RIK-DHK-00127&lt;/code&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="8.5" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-152" parent="W4Er2JH-VzB_er79cExz-147" style="text;whiteSpace=wrap;html=1;" value="&lt;code&gt;TRK-DHK-00081&lt;/code&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-153" edge="1" parent="W4Er2JH-VzB_er79cExz-147" source="W4Er2JH-VzB_er79cExz-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.566;entryY=-0.045;entryDx=0;entryDy=0;entryPerimeter=0;" target="W4Er2JH-VzB_er79cExz-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-154" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;code&gt;DRV-DHK-00452&lt;/code&gt;" vertex="1">
+          <mxGeometry height="20" width="90" x="2605" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-158" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="W4Er2JH-VzB_er79cExz-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-160" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="W4Er2JH-VzB_er79cExz-149">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3400" y="170" />
+              <mxPoint x="3400" y="340" />
+            </Array>
+            <mxPoint x="3480" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-155" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Rikshaw Driver" vertex="1">
+          <mxGeometry height="60" width="30" x="3440" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-159" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" target="W4Er2JH-VzB_er79cExz-146">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3700" y="225" />
+              <mxPoint x="3700" y="262.5" />
+              <mxPoint x="3760" y="262.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-157" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" value="backend updated and is connected with the cloud as&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;ACTIVE SHIFT&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Driver:&amp;nbsp; &amp;nbsp;DRV-DHK-00452&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Vehicle:&amp;nbsp; RIK-DHK-00127&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Garage:&amp;nbsp; &amp;nbsp;GAR-DHK-001&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Tracker:&amp;nbsp; TRK-DHK-00081&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="115" width="205" x="3551.75" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-161" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="turns on the tracker" vertex="1">
+          <mxGeometry height="30" width="60" x="3410" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-162" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="First" vertex="1">
+          <mxGeometry height="30" width="60" x="3468.5" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-163" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Second" vertex="1">
+          <mxGeometry height="30" width="60" x="3380" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-164" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="W4Er2JH-VzB_er79cExz-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-165" parent="1" style="whiteSpace=wrap;html=1;" value="Device Connects to provisioined network and sends :&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;TRK-DHK-00081&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;GPS = 23.7806, 90.4070&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Time = 18:45:02&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;ONLINE&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="301.5" x="3422.75" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-170" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="W4Er2JH-VzB_er79cExz-171">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3890" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-168" parent="1" style="whiteSpace=wrap;html=1;" value="The cloud is updated once again" vertex="1">
+          <mxGeometry height="60" width="120" x="3830" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-171" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;TRK-DHK-00081&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;RIK-DHK-00127&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;ACTIVE SHIFT&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;DRV-DHK-00452&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="115" width="205" x="3830" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-172" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="cloud stores all of these informations" vertex="1">
+          <mxGeometry height="30" width="125" x="3910" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-173" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Garage Owner" vertex="1">
+          <mxGeometry height="60" width="30" x="4180" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-176" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="W4Er2JH-VzB_er79cExz-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-174" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;GAR-DHK-001 — Fleet&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;┌──────────────────┐&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;RIK-DHK-00127&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Tracker: TRK-DHK-00081&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Driver: Kamrul Hasan&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Driver ID: DRV-DHK-00452&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Status: AVAILABLE&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Tracker: ONLINE&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;GPS: 23.7806, 90.4070&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Last update: 18:45:02&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="180" width="197.5" x="3920" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-177" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#001DBC;fillColor=light-dark(#000000,#FCF8F8);align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;fontSize=20;fontStyle=1" value="13" vertex="1">
+          <mxGeometry height="50" width="60" x="3382.5" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-178" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="3370" y="560" as="sourcePoint" />
+            <mxPoint x="4250" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-179" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;PERMANENT:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Tracker → Rickshaw&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;TEMPORARY:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Rickshaw → Today&#39;s Shift → Driver&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;CHANGING:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;GPS / availability / ride / tracker status&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;HISTORICAL:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Past drivers / shifts / rides / ratings / GPS records&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="270" x="6010" y="865" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-180" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="4249" y="1083" as="sourcePoint" />
+            <mxPoint x="4249" y="18" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-181" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Our system have permanent and variable data" vertex="1">
+          <mxGeometry height="30" width="260" x="6010" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-182" parent="1" style="whiteSpace=wrap;html=1;" value="What happens during an active shift?" vertex="1">
+          <mxGeometry height="60" width="270" x="3516.5" y="575" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-183" parent="1" style="whiteSpace=wrap;html=1;" value="Driver:    DRV-DHK-00452  = Kamrul&lt;div&gt;Garage:    GAR-DHK-001&lt;/div&gt;&lt;div&gt;Rickshaw:  RIK-DHK-00127&lt;/div&gt;&lt;div&gt;Tracker:   TRK-DHK-00081&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="192" x="3426.5" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-184" parent="1" style="whiteSpace=wrap;html=1;align=left;" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;RIK-DHK-00127&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;├── Tracker: TRK-DHK-00081&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;├── Current Driver: DRV-DHK-00452&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;├── Shift: ACTIVE&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;├── Vehicle State: NOT_AVAILABLE&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;├── Ride: NONE&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;└── Tracker: ONLINE&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="115" width="220" x="3690" y="675" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-185" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Given" vertex="1">
+          <mxGeometry height="30" width="60" x="3425" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-186" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Server_128x128.png" value="d" vertex="1">
+          <mxGeometry height="80" width="80" x="3955" y="575" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-187" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.47;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" target="W4Er2JH-VzB_er79cExz-184">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-188" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Cloud currently has" vertex="1">
+          <mxGeometry height="30" width="100" x="3850" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-191" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3470" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-189" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Rikshaw Driver" vertex="1">
+          <mxGeometry height="60" width="30" x="3410" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-198" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-190" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="W4Er2JH-VzB_er79cExz-202">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3773.5" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-190" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;" value="presses Button1 as driver does not want to wait for passengers unless he chooses to" vertex="1">
+          <mxGeometry height="70" width="120" x="3485" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-192" parent="1" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.contactor_32_125a;" value="" vertex="1">
+          <mxGeometry height="30" width="18" x="3470.5" y="835" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-199" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;ESP32 sends&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;TRK-DHK-00081&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Command: AVAILABILITY_TOGGLE&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="145" x="3618.5" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-204" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-202" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" target="W4Er2JH-VzB_er79cExz-203">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-215" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="W4Er2JH-VzB_er79cExz-216">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3960" y="859.8823529411766" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-202" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Storage_128x128.png" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="3777" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-203" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.checklist_performance;" value="" vertex="1">
+          <mxGeometry height="35" width="35" x="3655" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-207" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="138.5" x="3720" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-205" parent="W4Er2JH-VzB_er79cExz-207" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Tracker valid?&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; YES&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Active shift?&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;YES&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Ride active?&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; NO&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="138.5" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-206" parent="W4Er2JH-VzB_er79cExz-207" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="backend checks" vertex="1">
+          <mxGeometry height="30" width="100" x="-20" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-212" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="W4Er2JH-VzB_er79cExz-202">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3522.6" y="1060" />
+              <mxPoint x="3910" y="1060" />
+              <mxPoint x="3910" y="880" />
+            </Array>
+            <mxPoint x="3580" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-213" connectable="0" parent="W4Er2JH-VzB_er79cExz-212" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Then the cloud broadcasts/updates the passenger radar." vertex="1">
+          <mxGeometry relative="1" x="-0.4065" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-208" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;RIK-DHK-00127&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Vehicle State:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;NOT_AVAILABLE&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;AVAILABLE&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="138.5" x="3453.25" y="965" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-210" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-203" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="W4Er2JH-VzB_er79cExz-208">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-211" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="backend changes" vertex="1">
+          <mxGeometry height="35" width="60" x="3618.5" y="977.5" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-214" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Passenger" vertex="1">
+          <mxGeometry height="60" width="30" x="3955" y="935" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-216" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;🛺 RIK-DHK-00127&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp;AVAILABLE&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="3958.75" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-217" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="W4Er2JH-VzB_er79cExz-214">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-218" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="passenger now sees" vertex="1">
+          <mxGeometry height="30" width="100" x="3840" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-219" parent="1" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.contactor_32_125a;" value="" vertex="1">
+          <mxGeometry height="30" width="18" x="3967" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-220" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.369;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" target="W4Er2JH-VzB_er79cExz-219">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-222" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="W4Er2JH-VzB_er79cExz-223">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4130" y="764.6666666666667" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-221" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;GREEN LED = AVAILABLE&lt;/span&gt;" vertex="1">
+          <mxGeometry height="35" width="90" x="3988.75" y="747.5" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-223" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Rikshaw Driver" vertex="1">
+          <mxGeometry height="60" width="30" x="4170" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-224" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="displays to driver both on app and on control panel" vertex="1">
+          <mxGeometry height="50" width="125" x="4055" y="697.5" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-226" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#001DBC;fillColor=light-dark(#000000,#FCF8F8);align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;fontSize=20;fontStyle=1" value="14" vertex="1">
+          <mxGeometry height="50" width="60" x="4270" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-227" parent="1" style="whiteSpace=wrap;html=1;" value="Pasenger Scans the QR after fare and distance agreement" vertex="1">
+          <mxGeometry height="60" width="260" x="4350" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-233" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="W4Er2JH-VzB_er79cExz-232">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-228" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Unicons_Line_vol_5-2967/qrcode-scan-838.svg" value="" vertex="1">
+          <mxGeometry height="74" width="74" x="4388.5" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-230" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="W4Er2JH-VzB_er79cExz-228">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-229" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Passenger" vertex="1">
+          <mxGeometry height="60" width="30" x="4290" y="142" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-231" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;passenger scans or types&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;QR-RIK-00127-X8K2&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="151" x="4350" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-257" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" target="W4Er2JH-VzB_er79cExz-256">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4720" y="238.8" />
+              <mxPoint x="4710" y="238.8" />
+              <mxPoint x="4710" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-232" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Storage_128x128.png" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="4660" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-234" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Ride:&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;RIDE-DHK-000987&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Vehicle:&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;RIK-DHK-00127&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Driver:&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;DRV-DHK-00452&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Tracker:&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;TRK-DHK-00081&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;State:&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;INITIATED&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="151" x="4528" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-235" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="backend creates a ride id" vertex="1">
+          <mxGeometry height="30" width="160" x="4515" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-236" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Rikshaw Driver" vertex="1">
+          <mxGeometry height="60" width="30" x="3015" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-248" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-239" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5020" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-239" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Rikshaw Driver&lt;div&gt;&lt;span style=&quot;font-family: monospace; text-align: left; white-space: normal;&quot;&gt;DRV-DHK-00452&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="4920" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-244" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="W4Er2JH-VzB_er79cExz-239">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-241" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.android_phone" value="" vertex="1">
+          <mxGeometry height="50" width="30" x="4830" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-242" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.065;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="W4Er2JH-VzB_er79cExz-241">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4770" y="130" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-245" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4890" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-243" parent="1" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.contactor_32_125a;" value="" vertex="1">
+          <mxGeometry height="50" width="30" x="4830" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-246" parent="1" style="whiteSpace=wrap;html=1;" value="The driver app receives the request and the tracker beeps and waits for acceptance" vertex="1">
+          <mxGeometry height="50" width="175" x="4775" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-247" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.013;entryY=0.458;entryDx=0;entryDy=0;entryPerimeter=0;" target="W4Er2JH-VzB_er79cExz-243">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-249" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;h3&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;driver app/esp32 button/&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;The important rule is:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;First valid acceptance wins.&lt;/span&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="74" width="130" x="4950" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-254" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-250" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="W4Er2JH-VzB_er79cExz-253" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-250" parent="1" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.contactor_32_125a;" value="" vertex="1">
+          <mxGeometry height="50" width="30" x="5000" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-253" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;dashed=0;shadow=0;" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Tracker:&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;TRK-DHK-00081&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Command:&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ACCEPT_RIDE&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Ride:&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;RIDE-DHK-000987&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="175" x="4780" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-255" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-253" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.899;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;" target="W4Er2JH-VzB_er79cExz-232">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-261" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-256" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="W4Er2JH-VzB_er79cExz-260">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-256" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.checklist_performance;" value="" vertex="1">
+          <mxGeometry height="35" width="35" x="4660" y="307.5" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-258" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="device sends to cloud" vertex="1">
+          <mxGeometry height="30" width="151" x="4810" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-259" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="cloud now checks" vertex="1">
+          <mxGeometry height="30" width="110" x="4622.5" y="342.5" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-260" parent="1" style="whiteSpace=wrap;html=1;align=left;" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Ride exists?&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; YES&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Ride = INITIATED?&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;YES&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Tracker authorized?&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;YES&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Driver shift active?&amp;nbsp; &amp;nbsp; &amp;nbsp; YES&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="4440" y="327.5" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-262" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1" vertex="1">
+          <mxGeometry height="30" width="60" x="4610" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-263" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2" vertex="1">
+          <mxGeometry height="30" width="60" x="4720" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-264" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3" vertex="1">
+          <mxGeometry height="30" width="60" x="4725" y="179" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-265" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="4" vertex="1">
+          <mxGeometry height="30" width="60" x="4680" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-273" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="W4Er2JH-VzB_er79cExz-272">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-266" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Storage_128x128.png" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="4300" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-267" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-260" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.029;entryY=0.42;entryDx=0;entryDy=0;entryPerimeter=0;" target="W4Er2JH-VzB_er79cExz-266">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-268" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Cloud upates&amp;nbsp;&lt;div&gt;Initiated --&amp;gt; Active ride&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="151" x="4264.5" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-272" parent="1" style="whiteSpace=wrap;html=1;align=left;" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Acceptance Source=HARDWARE_BUTTON&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Accepted Driver = DRV-DHK-00452&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Accepted At = 18:52:11&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="240" x="4275" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-274" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="5" vertex="1">
+          <mxGeometry height="30" width="60" x="4300" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-275" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="the cloud records" vertex="1">
+          <mxGeometry height="30" width="90" x="4325" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-277" edge="1" parent="1" source="W4Er2JH-VzB_er79cExz-276" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" target="W4Er2JH-VzB_er79cExz-266">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-276" parent="1" style="whiteSpace=wrap;html=1;align=left;" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;RIK-DHK-00127&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; │&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; ├── Driver: DRV-DHK-00452&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; ├── Shift: ACTIVE&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; ├── Ride: RIDE-DHK-000987&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; ├── Ride State: ACTIVE&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; └── Availability: NOT_AVAILABLE&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="220" x="4590" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-278" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="6" vertex="1">
+          <mxGeometry height="30" width="30" x="4430" y="415" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-282" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;The vehicle &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;automatically disappears from passenger availability radar&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; because it is no longer available for a new passenger.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="240" x="4830" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-283" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="4250" y="600" as="sourcePoint" />
+            <mxPoint x="5090" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4Er2JH-VzB_er79cExz-284" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#001DBC;fillColor=light-dark(#000000,#FCF8F8);align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;fontSize=20;fontStyle=1" value="15" vertex="1">
+          <mxGeometry height="50" width="60" x="4270" y="635" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-2" parent="1" style="whiteSpace=wrap;html=1;" value="ESP32 now enters ongoing ride mode" vertex="1">
+          <mxGeometry height="60" width="270" x="4360" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-3" parent="1" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.contactor_32_125a;" value="" vertex="1">
+          <mxGeometry height="50" width="30" x="4320" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-12" edge="1" parent="1" source="MziwwOQ2_QuUOY89j_4S-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MziwwOQ2_QuUOY89j_4S-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-4" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Storage_128x128.png" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="4715" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-7" edge="1" parent="1" source="MziwwOQ2_QuUOY89j_4S-3" style="endArrow=classic;html=1;rounded=0;exitX=1.062;exitY=0.652;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MziwwOQ2_QuUOY89j_4S-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="4352" y="803" as="sourcePoint" />
+            <mxPoint x="4610" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-9" edge="1" parent="1" source="MziwwOQ2_QuUOY89j_4S-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" target="MziwwOQ2_QuUOY89j_4S-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-6" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;TRK-DHK-00081&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; ↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;GPS every ~5 seconds&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; ↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Backend&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; ↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;RIDE-DHK-000987&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; ↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Passenger live map&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="155" width="130" x="4420" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-8" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;18:52:15&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;23.7806, 90.4070&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;18:52:20&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;23.7810, 90.4078&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;18:52:25&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;23.7815, 90.4086&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="155" width="110" x="4540" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-10" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;TRK-DHK-00081&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; ↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;RIK-DHK-00127&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; ↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;RIDE-DHK-000987&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="130" x="4870" y="692.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-11" edge="1" parent="1" source="MziwwOQ2_QuUOY89j_4S-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" target="MziwwOQ2_QuUOY89j_4S-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="during the ride" vertex="1">
+          <mxGeometry height="30" width="100" x="4550" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="example" vertex="1">
+          <mxGeometry height="30" width="60" x="4450" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="The backend associates those coordinates with:" vertex="1">
+          <mxGeometry height="50" width="151" x="4820" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-20" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="5090" y="1075" as="sourcePoint" />
+            <mxPoint x="5090" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#001DBC;fillColor=light-dark(#000000,#FCF8F8);align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;fontSize=20;fontStyle=1" value="18" vertex="1">
+          <mxGeometry height="50" width="60" x="5120" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-22" parent="1" style="whiteSpace=wrap;html=1;" value="Ending the ride" vertex="1">
+          <mxGeometry height="60" width="120" x="5200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-23" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Rikshaw Driver&lt;div&gt;&lt;span style=&quot;font-family: monospace; text-align: left; white-space: normal;&quot;&gt;DRV-DHK-00452&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="5135" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-28" edge="1" parent="1" source="MziwwOQ2_QuUOY89j_4S-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MziwwOQ2_QuUOY89j_4S-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-24" parent="1" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.contactor_32_125a;" value="" vertex="1">
+          <mxGeometry height="50" width="30" x="5370" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-25" edge="1" parent="1" source="MziwwOQ2_QuUOY89j_4S-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.028;entryY=0.597;entryDx=0;entryDy=0;entryPerimeter=0;" target="MziwwOQ2_QuUOY89j_4S-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-26" parent="1" style="whiteSpace=wrap;html=1;" value="driver presses button 2" vertex="1">
+          <mxGeometry height="60" width="80" x="5233" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-34" edge="1" parent="1" source="MziwwOQ2_QuUOY89j_4S-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="MziwwOQ2_QuUOY89j_4S-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-40" edge="1" parent="1" source="MziwwOQ2_QuUOY89j_4S-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="MziwwOQ2_QuUOY89j_4S-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5560.285714285715" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-43" connectable="0" parent="MziwwOQ2_QuUOY89j_4S-40" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="This is the second half of the handshake." vertex="1">
+          <mxGeometry relative="1" x="0.0514" y="-2" as="geometry">
+            <mxPoint x="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-45" edge="1" parent="1" source="MziwwOQ2_QuUOY89j_4S-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MziwwOQ2_QuUOY89j_4S-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-60" edge="1" parent="1" source="MziwwOQ2_QuUOY89j_4S-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5540.333333333334" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-27" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Storage_128x128.png" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="5500" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-29" parent="1" style="whiteSpace=wrap;html=1;align=left;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;TRK-DHK-00081&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Command:REQUEST_END_RIDE&lt;/span&gt;&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;Ride:RIDE-DHK-000987&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="87" width="190" x="5445" y="141.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="esp32 sends cancellation request" vertex="1">
+          <mxGeometry height="50" width="105" x="5332.5" y="104" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1" vertex="1">
+          <mxGeometry height="30" width="30" x="5540" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-32" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;speed ≤ 10 km/h&lt;/span&gt;" vertex="1">
+          <mxGeometry height="15" width="120" x="5280" y="355" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-37" edge="1" parent="1" source="MziwwOQ2_QuUOY89j_4S-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.031;entryY=0.528;entryDx=0;entryDy=0;entryPerimeter=0;" target="MziwwOQ2_QuUOY89j_4S-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5230" y="307.5" />
+              <mxPoint x="5230" y="370" />
+              <mxPoint x="5450" y="370" />
+              <mxPoint x="5450" y="332.2" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-33" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.checklist_performance;" value="" vertex="1">
+          <mxGeometry height="35" width="35" x="5255.5" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="does not complete the ride rather checks speed and then accepts termination request" vertex="1">
+          <mxGeometry height="30" width="105" x="5120" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2" vertex="1">
+          <mxGeometry height="15" width="35" x="5470" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3" vertex="1">
+          <mxGeometry height="15" width="30" x="5450" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="speed=4km/h" vertex="1">
+          <mxGeometry height="30" width="80" x="5385" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-41" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;ACTIVE&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp;↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;WAITING_PASSENGER_CONFIRM&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="200" x="5255.5" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="4" vertex="1">
+          <mxGeometry height="15" width="20" x="5490" y="355" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-49" edge="1" parent="1" source="MziwwOQ2_QuUOY89j_4S-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MziwwOQ2_QuUOY89j_4S-48" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5885" y="475" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-44" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Passenger" vertex="1">
+          <mxGeometry height="60" width="30" x="5790" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-47" edge="1" parent="1" source="MziwwOQ2_QuUOY89j_4S-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.135;entryDx=0;entryDy=0;entryPerimeter=0;" target="MziwwOQ2_QuUOY89j_4S-46" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5580" y="330" as="sourcePoint" />
+            <mxPoint x="5790" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-46" parent="1" style="whiteSpace=wrap;html=1;" value="passenger receives completion request and asked for confirmation" vertex="1">
+          <mxGeometry height="60" width="120" x="5635" y="282.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-55" edge="1" parent="1" source="MziwwOQ2_QuUOY89j_4S-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5730.444444444444" y="450" as="sourcePoint" />
+            <mxPoint x="5570" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-48" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;" value="passenger presses confirms" vertex="1">
+          <mxGeometry height="35" width="120" x="5710" y="445" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-51" edge="1" parent="1" source="MziwwOQ2_QuUOY89j_4S-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MziwwOQ2_QuUOY89j_4S-50" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5805" y="345" as="sourcePoint" />
+            <mxPoint x="5805" y="425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-50" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.android_phone" value="" vertex="1">
+          <mxGeometry height="50" width="30" x="5870" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="5" vertex="1">
+          <mxGeometry height="15" width="20" x="5590" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-58" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;backend then obtains valid gps&lt;br&gt;Tracker:TRK-DHK-00081&lt;br&gt;Latest GPS:23.7842, 90.4121&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="60" width="210" x="5550" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-59" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="6" vertex="1">
+          <mxGeometry height="15" width="20" x="5590" y="355" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-61" parent="1" style="whiteSpace=wrap;html=1;" value="Ride Officially Ended&lt;div&gt;&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;RIDE-DHK-000987&lt;br&gt;↓&lt;br&gt;COMPLETED&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="74" width="130" x="5475" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-62" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="7" vertex="1">
+          <mxGeometry height="15" width="20" x="5540" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-64" edge="1" parent="1" source="MziwwOQ2_QuUOY89j_4S-66" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="MziwwOQ2_QuUOY89j_4S-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-63" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Passenger" vertex="1">
+          <mxGeometry height="60" width="30" x="5840" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-65" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;Actual fare:৳120&lt;br&gt;Rating:5/5&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="35" width="130" x="5640" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-67" edge="1" parent="1" source="MziwwOQ2_QuUOY89j_4S-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="MziwwOQ2_QuUOY89j_4S-66" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5820" y="567" as="sourcePoint" />
+            <mxPoint x="5605" y="527" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-66" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.android_phone" value="" vertex="1">
+          <mxGeometry height="50" width="30" x="5690" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="8" vertex="1">
+          <mxGeometry height="30" width="60" x="5780" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-69" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="5090" y="640" as="sourcePoint" />
+            <mxPoint x="5940" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#001DBC;fillColor=light-dark(#000000,#FCF8F8);align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;fontSize=20;fontStyle=1" value="19" vertex="1">
+          <mxGeometry height="50" width="52.5" x="5112.5" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-71" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Shift:&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ACTIVE&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Ride:&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;COMPLETED&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Vehicle:&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;NOT_AVAILABLE&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="5575" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-74" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="MziwwOQ2_QuUOY89j_4S-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5170" y="880" as="sourcePoint" />
+            <mxPoint x="5230" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-72" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Rikshaw Driver&lt;div&gt;&lt;span style=&quot;font-family: monospace; text-align: left; white-space: normal;&quot;&gt;DRV-DHK-00452&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="5150" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-73" edge="1" parent="1" source="MziwwOQ2_QuUOY89j_4S-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" target="MziwwOQ2_QuUOY89j_4S-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-78" edge="1" parent="1" source="MziwwOQ2_QuUOY89j_4S-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5550" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-75" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;NOT_AVAILABLE&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;AVAILABLE&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="5310" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-76" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span&gt;The ride is finished, but driver&#39;s &lt;/span&gt;&lt;strong&gt;&lt;span&gt;shift is still ACTIVE&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="320" x="5290.5" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="presses button 1 again" vertex="1">
+          <mxGeometry height="30" width="130" x="5202.5" y="885" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-81" edge="1" parent="1" source="MziwwOQ2_QuUOY89j_4S-79" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="MziwwOQ2_QuUOY89j_4S-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-79" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;🛺 RIK-DHK-00127&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;AVAILABLE&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="5550" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-80" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Storage_128x128.png" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="5460" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-82" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="5940" y="1083" as="sourcePoint" />
+            <mxPoint x="5940" y="18" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-83" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;ACTIVE SHIFT&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;│&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;▼&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;NOT_AVAILABLE&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;│&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Button 1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;▼&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;AVAILABLE&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;│&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Passenger scans QR&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;▼&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;INITIATED&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;│&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Driver accepts&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;(App OR Button 1)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;▼&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;ACTIVE RIDE&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;│&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;GPS ~5 sec&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;│&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;▼&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Driver presses Button 2&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;│&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;▼&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Backend checks speed ≤10 km/h&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;│&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;▼&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;WAITING_PASSENGER_CONFIRM&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;│&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Passenger confirms&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;▼&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;COMPLETED&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;│&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;▼&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;NOT_AVAILABLE&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;│&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Button 1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;▼&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;AVAILABLE&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;│&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;▼&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Next passenger&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="670" width="240" x="6020" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-84" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#001DBC;fillColor=light-dark(#000000,#FCF8F8);align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;fontSize=20;fontStyle=1" value="20" vertex="1">
+          <mxGeometry height="50" width="52.5" x="5980" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="After ride completion" vertex="1">
+          <mxGeometry height="30" width="138" x="5172" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-87" parent="1" style="whiteSpace=wrap;html=1;" value="The whole Cycle" vertex="1">
+          <mxGeometry height="25" width="120" x="6060" y="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-91" edge="1" parent="1" source="MziwwOQ2_QuUOY89j_4S-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6480" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-88" parent="1" style="whiteSpace=wrap;html=1;align=left;" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;RIK-DHK-00127&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;│&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;├── Permanent Tracker&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;│&amp;nbsp; &amp;nbsp; &amp;nbsp;└── TRK-DHK-00081&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;│&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;├── Current Shift&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;│&amp;nbsp; &amp;nbsp; &amp;nbsp;└── DRV-DHK-00452&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;│&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;├── Vehicle State&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;│&amp;nbsp; &amp;nbsp; &amp;nbsp;└── AVAILABLE&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;│&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;├── Current Ride&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;│&amp;nbsp; &amp;nbsp; &amp;nbsp;└── NONE&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;│&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;├── Tracker Status&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;│&amp;nbsp; &amp;nbsp; &amp;nbsp;└── ONLINE&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;│&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;└── Latest GPS&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; └── 23.7842, 90.4121&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="315" width="160" x="6380" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-89" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="The cloud continously maintians" vertex="1">
+          <mxGeometry height="30" width="140" x="6390" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-90" edge="1" parent="1" source="MziwwOQ2_QuUOY89j_4S-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.009;entryY=0.467;entryDx=0;entryDy=0;entryPerimeter=0;" target="MziwwOQ2_QuUOY89j_4S-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-93" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.448;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" target="MziwwOQ2_QuUOY89j_4S-94">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6490.000000000001" y="580" as="sourcePoint" />
+            <mxPoint x="6490" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-98" edge="1" parent="1" source="MziwwOQ2_QuUOY89j_4S-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="MziwwOQ2_QuUOY89j_4S-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-99" connectable="0" parent="MziwwOQ2_QuUOY89j_4S-98" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="The permanent identities never change" vertex="1">
+          <mxGeometry relative="1" x="-0.0579" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-94" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Vehicle State → NOT_AVAILABLE&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Current Ride&amp;nbsp; → RIDE-DHK-000987&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Ride State&amp;nbsp; &amp;nbsp; → ACTIVE&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="230" x="6360" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-95" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="When a ride starts, only the &lt;strong&gt;changing operational fields&lt;/strong&gt; change:" vertex="1">
+          <mxGeometry height="30" width="190" x="6380" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="MziwwOQ2_QuUOY89j_4S-97" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;TRK-DHK-00081 → RIK-DHK-00127&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="30" width="220" x="6365" y="805" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
